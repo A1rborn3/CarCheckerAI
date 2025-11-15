@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CarCheckerAI", "CarCheckerAI\CarCheckerAI.pyproj", "{AFA02EB1-A2A3-4D37-BAC3-E068EEB11282}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFA02EB1-A2A3-4D37-BAC3-E068EEB11282}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFA02EB1-A2A3-4D37-BAC3-E068EEB11282}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9039DB6-E441-408D-A944-554B6A2FDBE1}
+	EndGlobalSection
+EndGlobal
